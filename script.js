@@ -36,8 +36,9 @@ $(document).ready(function () {
   // typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "React .js  Developer",
-      "Frontend Developer",
+      "REACT JS DEVELOPER",
+      "FRONTEND DEVELOPER",
+      "MERN STACK DEVELOPER"
     ],
     typeSpeed: 100,
     backSpeed: 70,
@@ -46,8 +47,9 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings:[
-      "React .js  Developer",
-      "Frontend Developer",
+      "REACT JS DEVELOPER",
+      "FRONTEND DEVELOPER",
+      "MERN STACK DEVELOPER"
     ],
     typeSpeed: 100,
     backSpeed: 70,

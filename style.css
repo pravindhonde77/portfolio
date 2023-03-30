@@ -279,10 +279,15 @@ section .title::after{
     height: 350px;
     background: #222;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 10px;
     padding: 40px 25px;
+    margin-top: 100px;
     cursor: pointer;
     transition: all 0.3s ease;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
 }
 .services .serv-content .card:hover{
     background: crimson;
